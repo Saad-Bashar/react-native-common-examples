@@ -60,5 +60,7 @@ yarn storybook:ios
 
 The storybook of a button component looks like the followin on device
 
-![Button Storybook](./assets/sb1.png)
-![Button Storybook](./assets/sb2.png)
+<p float="left">
+  <img src="./assets/sb1.png" width="180" height="350" />
+  <img src="./assets/sb2.png" width="180" height="350" /> 
+</p>
